@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Participant Registration Section</title>
+    <title>Participantssss Registration Section</title>
     <style>
         body {
             font-family: Arial, sans-serif;
